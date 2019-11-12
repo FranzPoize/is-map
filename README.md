@@ -1,5 +1,7 @@
 # is-map <sup>[![Version Badge][2]][1]</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/inspect-js/is-map.svg)](https://greenkeeper.io/)
+
 [![Build Status][3]][4]
 [![dependency status][5]][6]
 [![dev dependency status][7]][8]
